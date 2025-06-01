@@ -1,4 +1,4 @@
 # Learning-Demo
 This is my first Git Repository
 <br> 
-Author - Mayank Bajaj
+Author - Mayank (Learning Demo)
